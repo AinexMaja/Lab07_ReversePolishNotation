@@ -1,4 +1,4 @@
-package stack;
+package operators;
 
 public interface Stack<E> {
 

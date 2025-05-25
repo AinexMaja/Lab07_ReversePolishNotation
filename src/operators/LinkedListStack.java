@@ -1,4 +1,4 @@
-package stack;
+package operators;
 
 public class LinkedListStack<E> implements Stack<E> {
 	private class Node<T> {
